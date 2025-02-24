@@ -1,0 +1,10 @@
+Underwater Object Detection Using YOLO in Google Colab  
+
+This project implements underwater object detection using the YOLOv8* model in Google Colab. It aims to detect and classify underwater objects like fish, corals, marine debris, plastic waste, and more with high accuracy.  
+ Key Features:  
+Dataset Preparation: Collected and preprocessed underwater images with labeled objects.  
+Model Training: Fine-tuned YOLOv8 using Google Colab's Tesla T4 GPU for real-time detection.  
+Evaluation Metrics: Performance analyzed using Precision, Recall, F1-Score, and mAP.  
+Applications:Useful for marine research, pollution monitoring, and aquatic life conservation.  
+
+This project enhances underwater monitoring by providing efficient and automated object detection for research and environmental tracking.
